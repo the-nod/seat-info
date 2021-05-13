@@ -1,2 +1,2 @@
-# seat-info
-EVE Online SeAT Info-plugin
+# EVE Online SeAT Info-plugin
+
